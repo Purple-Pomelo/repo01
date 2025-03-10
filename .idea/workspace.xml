@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c2366b2-d4e1-46e7-aba8-e5396a604daf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1/a.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/b.html" beforeDir="false" afterPath="$PROJECT_DIR$/1/b.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +24,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PATH_TO_GIT" value="D:\all\Tools\Tools_Ctrl\git\git_2.48.1\bin\git.exe" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -56,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741617479944</updated>
       <workItem from="1741617483483" duration="2597000" />
+      <workItem from="1741621543947" duration="392000" />
     </task>
     <task id="LOCAL-00001" summary="测试idea，提交a.html">
       <created>1741618482076</created>
@@ -64,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1741618482076</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="测试idea，提交b.html">
+      <created>1741621695947</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741621695947</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试idea，提交a.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试idea，提交a.html" />
+    <MESSAGE value="测试idea，提交b.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试idea，提交b.html" />
   </component>
 </project>
